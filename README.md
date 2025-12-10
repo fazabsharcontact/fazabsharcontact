@@ -20,4 +20,7 @@ Here are some ideas to get you started:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,laravel,tailwind,mysql&theme=light" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+  </a>
 </div>
