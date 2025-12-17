@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">Tech.</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,laravel,tailwind,mysql,nodejs,express&theme=light,perline=3" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,tailwind,laravel,php,python,mysql,git&theme=light&perline=6" />
   </a>
 </div>
