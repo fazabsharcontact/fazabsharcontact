@@ -1,4 +1,7 @@
-![Faza abshar](img/you.jpeg)
+<div align="center">
+  <img src="img/you.jpeg" alt="Faza abshar" width="400">
+</div>
+
 <!-- ## Hi, Faza in here 🤙🏻 -->
 <!--
 **fazabsharcontact/fazabsharcontact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
