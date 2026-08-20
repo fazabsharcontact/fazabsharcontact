@@ -14,4 +14,19 @@
 
 <!-- LANGUAGE_STATS_START -->
 
-<!-- LANGUAGE_STATS_END -->
+## My Coding Languages
+
+> Automatically generated from 31 public repositories.
+
+| Language | Usage | Percentage |
+|----------|------:|----------:|
+| Blade | 703,036 bytes | 51.80% |
+| PHP | 338,367 bytes | 24.93% |
+| HTML | 87,743 bytes | 6.46% |
+| JavaScript | 86,782 bytes | 6.39% |
+| Python | 72,642 bytes | 5.35% |
+| CSS | 47,415 bytes | 3.49% |
+| EJS | 20,564 bytes | 1.52% |
+| Java | 712 bytes | 0.05% |
+
+
