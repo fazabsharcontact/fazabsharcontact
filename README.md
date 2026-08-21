@@ -12,6 +12,12 @@
 
 <br>
 
-<!-- LANGUAGE_STATS_START -->
+<!-- GitHub Stats -- >
 
-<!-- LANGUAGE_STATS_END -->
+<a href="https://github.com/fazabsharcontact">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." />
+</a>
+
+<a href="https://github.com/fazabsharcontact">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats..." alt="faza's GitHub Stats" />
+</a>
